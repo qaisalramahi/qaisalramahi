@@ -1,8 +1,8 @@
-# Qais Ramahi
+<h1 align="center">Qais Ramahi</h1>
+<p align="center">Robotics × AI</p>
 
-Robotics × AI • Applied ML for Real-World Systems
 
-• [LinkedIn] (https://www.linkedin.com/in/qais-al-ramahi-3662562b7/)
+• [LinkedIn](https://www.linkedin.com/in/qais-al-ramahi-3662562b7/)
 
 ---
 
