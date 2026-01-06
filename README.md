@@ -13,8 +13,8 @@
 ## 👋 About me
 
 - Bachelor’s student in **Robotics & Intelligent Systems @ Constructor University Bremen**
-- Research Assistant at **DFKI — Maritime Robotics / Underwater Perception**
-- Work focuses on **sonar datasets, underwater perception, 3D reconstruction, and simulation pipelines**
+- Research Assistant at **DFKI - Maritime Robotics / Underwater Perception**
+- Work focuses on **sonar datasets, underwater perception, and simulation pipelines**
 - Interests: **robotics perception, planning & control, ML for embodied systems, underwater sensing, autonomous systems**
 
 
