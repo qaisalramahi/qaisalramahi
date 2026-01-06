@@ -2,7 +2,7 @@
 <p align="center">Robotics × AI</p>
 
 
-• [LinkedIn](https://www.linkedin.com/in/qais-al-ramahi-3662562b7/)
+<p align="center"> • [LinkedIn](https://www.linkedin.com/in/qais-al-ramahi-3662562b7/) </p>
 
 ---
 
