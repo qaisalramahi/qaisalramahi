@@ -34,7 +34,7 @@
 
 - **Denoising Sonar Images (Bachelor Thesis)** — loading...
 
-- **Human Robot Interaction Project** — How different mappings of the 3D Novint falcon affect user performance in the a targetting task using the Franka Panda arm 
+- **Human Robot Interaction Project** — How different mappings of the 3D Novint falcon affect user performance in a targetting task using the Franka Panda arm 
 
 ---
 
