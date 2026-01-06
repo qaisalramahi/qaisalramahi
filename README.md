@@ -29,12 +29,12 @@
 
 ## 📌 Selected projects
 
-- **SonarCloud** — Simulated forward-looking sonar dataset for underwater perception  
+- **SonarCloud** - Simulated forward-looking sonar dataset for underwater perception  
   *Depth + sonar imaging, dataset collection pipeline, evaluation workflows*
 
-- **Denoising Sonar Images (Bachelor Thesis)** — loading...
+- **Denoising Sonar Images (Bachelor Thesis)** - loading...
 
-- **Human Robot Interaction Project** — How different mappings of the 3D Novint falcon affect user performance in a targetting task using the Franka Panda arm 
+- **Human Robot Interaction Project** - How different mappings of the 3D Novint falcon affect user performance in a targetting task using the Franka Panda arm 
 
 ---
 
