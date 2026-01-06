@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @qaisalramahi
-- 👀 My favourite hobbys are football, gym and padel
-- 🌱 I’m currently learning python, scikit-learn and Machine Learning
-- 💞️ I’m looking to collaborate on any beginner ML and AI projects
-- 📫 You can reach me through Instagram: alrqais_ and LinkedIn: https://www.linkedin.com/in/qais-al-ramahi-3662562b7/ 
-- ⚡ Fun fact: I know all country flags of the world :) 
+# Qais Ramahi
 
-<!---
-qaisalramahi/qaisalramahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Robotics × AI • Applied ML for Real-World Systems
+
+• [LinkedIn] (https://www.linkedin.com/in/qais-al-ramahi-3662562b7/)
+
+---
+
+## 👋 About me
+
+- Bachelor’s student in **Robotics & Intelligent Systems @ Constructor University Bremen**
+- Research Assistant at **DFKI — Maritime Robotics / Underwater Perception**
+- Work focuses on **sonar datasets, underwater perception, 3D reconstruction, and simulation pipelines**
+- Interests: **robotics perception, planning & control, ML for embodied systems, underwater sensing, autonomous systems**
+
+
+---
+
+## 🧰 Stack
+
+`Python` • `C++` • `PyTorch` • `ROS` • `OpenCV` • `NumPy` • `Pandas`  
+`Stonefish` • `HoloOcean` • `Linux` • `Git`
+
+---
+
+## 📌 Selected projects
+
+- **SonarCloud** — Simulated forward-looking sonar dataset for underwater perception  
+  *Depth + sonar imaging, dataset collection pipeline, evaluation workflows*
+
+- **Denoising Sonar Images (Bachelor Thesis)** — loading...
+
+- **Human Robot Interaction Project** — How different mappings of the 3D Novint falcon affect user performance in the a targetting task using the Franka Panda arm 
+
+---
+
+## 📬 Contact
+
+DM on LinkedIn or reach me via e-mail: qalramahi@constructor.university
