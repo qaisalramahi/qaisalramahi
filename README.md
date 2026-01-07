@@ -1,9 +1,14 @@
 <h1 align="center">Qais Ramahi</h1>
-![Typing SVG](typingsvg.vercel.app|%20I%20am%20a%20developer.&font=FiraCode&size=30&duration=2000&color=f7f7f7)
+
+<div align="center">
+ <a class="link" href="https://github.com/qaisalramahi/qaisalramahi/edit/main/header.svg">
+  <img class="image" src="header.svg" alt="Click to see the source">
+ </a>
+</div>
 
 <div align="Center"> 
  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-USERNAME/](https://www.linkedin.com/in/qais-al-ramahi-3662562b7/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qais-al-ramahi-3662562b7/)
 
 </div>
 
