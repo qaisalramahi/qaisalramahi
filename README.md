@@ -22,8 +22,10 @@
 
 ## 🧰 Stack
 
-`Python` • `C++` • `PyTorch` • `ROS` • `OpenCV` • `NumPy` • `Pandas`  
-`Stonefish` • `HoloOcean` • `Linux` • `Git`
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,cpp,anaconda,bash,blender,docker,cmake,git,github,linux,matlab,opencv,ubuntu,unreal,ros&perline=8)](https://skillicons.dev) 
+
++ HoloOcean
++ Stonefish
 
 ---
 
